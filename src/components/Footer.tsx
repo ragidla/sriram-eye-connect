@@ -6,16 +6,9 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-12">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <div className="flex items-center space-x-3 mb-6">
-              <img 
-                src="/lovable-uploads/36ff6c9f-d5a7-405c-b06b-8c8f7d1c6436.png" 
-                alt="Sriram Eye Care Logo" 
-                className="h-12 w-auto rounded-lg p-2"
-              />
-              <div>
-                <div className="font-bold text-xl">Sriram Eye Care</div>
-                <div className="text-medical-blue-light text-sm">Excellence in Vision Care</div>
-              </div>
+            <div className="mb-6">
+              <div className="font-bold text-xl">Sriram Eye Care</div>
+              <div className="text-medical-blue-light text-sm">Excellence in Vision Care</div>
             </div>
             <p className="text-white mb-4">
               Providing comprehensive eye care services with state-of-the-art technology 
