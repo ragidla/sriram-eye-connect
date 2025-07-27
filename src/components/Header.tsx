@@ -27,7 +27,7 @@ const Header = () => {
             <img 
               src="/lovable-uploads/36ff6c9f-d5a7-405c-b06b-8c8f7d1c6436.png" 
               alt="Sriram Eye Care Logo" 
-              className="w-10 h-10"
+              className="h-10 w-auto"
             />
             <div>
               <div className="font-bold text-lg text-foreground">Sriram Eye Care</div>
