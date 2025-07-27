@@ -15,7 +15,7 @@ const HeroSection = () => {
               <img 
                 src="/lovable-uploads/36ff6c9f-d5a7-405c-b06b-8c8f7d1c6436.png" 
                 alt="Sriram Eye Care Logo" 
-                className="w-20 h-20 mr-4"
+                className="h-20 w-auto mr-4"
               />
               <div>
                 <h1 className="text-4xl lg:text-6xl font-bold text-foreground mb-2">

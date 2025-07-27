@@ -10,7 +10,7 @@ const Footer = () => {
               <img 
                 src="/lovable-uploads/36ff6c9f-d5a7-405c-b06b-8c8f7d1c6436.png" 
                 alt="Sriram Eye Care Logo" 
-                className="w-12 h-12 bg-white rounded-lg p-2"
+                className="h-12 w-auto bg-white rounded-lg p-2"
               />
               <div>
                 <div className="font-bold text-xl">Sriram Eye Care</div>
