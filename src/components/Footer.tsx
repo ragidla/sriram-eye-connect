@@ -17,7 +17,7 @@ const Footer = () => {
                 <div className="text-medical-blue-light text-sm">Excellence in Vision Care</div>
               </div>
             </div>
-            <p className="text-medical-blue-light mb-4">
+            <p className="text-white mb-4">
               Providing comprehensive eye care services with state-of-the-art technology 
               and personalized treatment in Rajahmundry, Andhra Pradesh.
             </p>
