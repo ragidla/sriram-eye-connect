@@ -21,7 +21,7 @@ const DoctorSection = () => {
                 <div className="relative">
                   <img 
                     src={doctorPortrait} 
-                    alt="Dr. Ashok Kumar" 
+                    alt="Dr. Ashok Kumar Singh" 
                     className="w-full h-96 object-cover"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-medical-blue/20 to-transparent"></div>
