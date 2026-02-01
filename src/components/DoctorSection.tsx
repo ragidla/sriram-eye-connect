@@ -21,12 +21,12 @@ const DoctorSection = () => {
                 <div className="relative">
                   <img 
                     src={doctorPortrait} 
-                    alt="Dr. Ashok Kumar Singh" 
+                    alt="Dr. Ashok Kumar" 
                     className="w-full h-96 object-cover"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-medical-blue/20 to-transparent"></div>
                   <div className="absolute bottom-4 left-4 text-white">
-                    <h3 className="text-2xl font-bold">Dr. Ashok Kumar</h3>
+                    <h3 className="text-2xl font-bold">Dr. Ashok Kumar Singh</h3>
                     <p className="text-lg opacity-90">MBBS, Ophthalmology</p>
                   </div>
                 </div>
